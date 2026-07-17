@@ -23,6 +23,7 @@ markers:
   - {type: line-break, offset: 12, content: '', id: KR3a0078_WYG_041-1a04}
   - {type: indent, offset: 12, content: 　　, id: KR3a0078_krp_041-bkkind3}
   - {type: punctuation, offset: 14, content: (, id: KR3a0078_krp_041-bkkpn1}
+  - {type: voice, offset: 14, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 22, content: /, id: KR3a0078_krp_041-bkkpn2}
   - {type: punctuation, offset: 22, content: ), id: KR3a0078_krp_041-bkkpn3}
   - {type: 'kr:newline', offset: 22, content: '
@@ -92,6 +93,7 @@ markers:
   - {type: line-break, offset: 223, content: '', id: KR3a0078_WYG_041-1b07}
   - {type: indent, offset: 223, content: 　, id: KR3a0078_krp_041-bkkind13}
   - {type: punctuation, offset: 237, content: (, id: KR3a0078_krp_041-bkkpn4}
+  - {type: voice, offset: 237, length: 16, name: note, id: n2}
   - {type: punctuation, offset: 243, content: /, id: KR3a0078_krp_041-bkkpn5}
   - {type: substitution, offset: 243, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 249, content: ), id: KR3a0078_krp_041-bkkpn6}
@@ -2115,6 +2117,7 @@ markers:
   - {type: line-break, offset: 6709, content: '', id: KR3a0078_WYG_041-22a08}
   - {type: indent, offset: 6709, content: 　　, id: KR3a0078_krp_041-bkkind335}
   - {type: punctuation, offset: 6711, content: (, id: KR3a0078_krp_041-bkkpn10}
+  - {type: voice, offset: 6711, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 6717, content: /, id: KR3a0078_krp_041-bkkpn11}
   - {type: punctuation, offset: 6717, content: ), id: KR3a0078_krp_041-bkkpn12}
   - {type: 'kr:newline', offset: 6717, content: '
@@ -2681,4 +2684,4 @@ markers:
 
       ', id: KR3a0078_krp_041-bkkkrnewl485}
   back: []
-hash: sha256:844ea6429d58a684c94397366a280d384c0bdcb427e908fb14f45ab23e7cbb0a
+hash: sha256:cba20b317c6575c8771fa8bc2a2ea4107112828ebce0d248ee0d8092684b3711

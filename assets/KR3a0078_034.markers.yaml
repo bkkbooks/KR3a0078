@@ -2469,6 +2469,7 @@ markers:
   - {type: line-break, offset: 7798, content: '', id: KR3a0078_WYG_034-26b01}
   - {type: indent, offset: 7798, content: 　, id: KR3a0078_krp_034-bkkind465}
   - {type: punctuation, offset: 7801, content: (, id: KR3a0078_krp_034-bkkpn1}
+  - {type: voice, offset: 7801, length: 10, name: note, id: n1}
   - {type: substitution, offset: 7802, original: 叚, replacement: 假, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17324}}
   - {type: punctuation, offset: 7806, content: /, id: KR3a0078_krp_034-bkkpn2}
   - {type: punctuation, offset: 7811, content: ), id: KR3a0078_krp_034-bkkpn3}
@@ -2968,6 +2969,7 @@ markers:
   - {type: line-break, offset: 9452, content: '', id: KR3a0078_WYG_034-31b04}
   - {type: indent, offset: 9452, content: 　, id: KR3a0078_krp_034-bkkind559}
   - {type: punctuation, offset: 9466, content: (, id: KR3a0078_krp_034-bkkpn4}
+  - {type: voice, offset: 9466, length: 9, name: note, id: n2}
   - {type: punctuation, offset: 9471, content: /, id: KR3a0078_krp_034-bkkpn5}
   - {type: punctuation, offset: 9475, content: ), id: KR3a0078_krp_034-bkkpn6}
   - {type: 'kr:newline', offset: 9476, content: '
@@ -2981,6 +2983,7 @@ markers:
   - {type: line-break, offset: 9496, content: '', id: KR3a0078_WYG_034-31b06}
   - {type: indent, offset: 9496, content: 　, id: KR3a0078_krp_034-bkkind561}
   - {type: punctuation, offset: 9515, content: (, id: KR3a0078_krp_034-bkkpn7}
+  - {type: voice, offset: 9515, length: 24, name: note, id: n3}
   - {type: punctuation, offset: 9516, content: /, id: KR3a0078_krp_034-bkkpn8}
   - {type: punctuation, offset: 9517, content: ), id: KR3a0078_krp_034-bkkpn9}
   - {type: 'kr:newline', offset: 9517, content: '
@@ -4018,4 +4021,4 @@ markers:
 
       ', id: KR3a0078_krp_034-bkkkrnewl737}
   back: []
-hash: sha256:54553ff7c073d6df9218bd770a82348308b1eb49b178f174c7090c3d141f4db4
+hash: sha256:dbb7f191afc20b1402e5605c88137cccbc318f2413cd3b29a05606768da41a9f
